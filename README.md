@@ -13,9 +13,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinho-Dev&theme=merko)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinho-Dev&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinho-Dev&theme=merko)
+
 
 <img src="https://raw.githubusercontent.com/Dinho-Dev/Dinho-Dev/output/snake.svg" alt="Snake animation" />
 
