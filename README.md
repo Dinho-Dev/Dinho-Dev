@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=26&pause=1000&color=1DF75C&width=435&separator=%3C&lines=Console.WriteLine(%22Ol%C3%A1+Mundo%F0%9F%8C%8E%22);)](https://git.io/typing-svg)
 
-<p align="left">Estou Aprendendo:</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&pause=1000&color=1DF75C&width=435&lines=Estou+Aprendendo%3A)](https://git.io/typing-svg)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
