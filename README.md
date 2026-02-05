@@ -2,6 +2,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=006400"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=40&pause=1000&color=1DF75C&width=435&separator=%3C&lines=Console.WriteLine(%22Ol%C3%A1+Mundo%F0%9F%8C%8E%22);)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=1DF75C&width=435&separator=%3C&lines=Console.WriteLine(%22Ol%C3%A1+Mundo%F0%9F%8C%8E%22);)](https://git.io/typing-svg)
 
 <p align="left">Estou Aprendendo:</p>
