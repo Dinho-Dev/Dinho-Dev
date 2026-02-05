@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinho-Dev&theme=merko)|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinho-Dev&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinho-Dev&theme=merko) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinho-Dev&theme=merko)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinho-Dev&theme=merko)
 
 <img src="https://raw.githubusercontent.com/Dinho-Dev/Dinho-Dev/output/snake.svg" alt="Snake animation" />
