@@ -12,8 +12,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
-<br>
-<br>
+<p>
+<p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinho-Dev&theme=merko) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinho-Dev&theme=merko)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinho-Dev&theme=merko)
